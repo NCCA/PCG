@@ -10,7 +10,7 @@ A simple example of using the canvas should produce an image like this
 
 ![canvas.py](images/test.png)
 
-# [dla.py](images/dla.png)
+# [dla.py](images/test.png)
 
 A simple diffusion limited aggregation example should produce an image like this
 
