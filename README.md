@@ -10,6 +10,12 @@ A simple example of using the canvas should produce an image like this
 
 ![canvas.py](images/test.png)
 
+# [dla.py](images/dla.png)
+
+A simple diffusion limited aggregation example should produce an image like this
+
+![dla.py](images/dla.png)
+
 # [circle.py](images/circle.png)
 
 A simple example of using the canvas to draw a circle and move it around the screen.
